@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+}
+
+
+
+hr {
+  border-width: thick;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+h4 {
+color: blue;
+padding-left: 5%
+}
+
+
+.navbar-brand strong {
+  color: #00b7c2;
+  font-size: 1.5rem;
+  padding-left: 15%;
+}
+
+/* search section */
+
+/* still to be touched ******************************************************************/
+.search-input {
+  border: none;
+  outline: none;
+  margin-left: 20%;
+}
+
+
+.search-btn {
+  margin-left: 10px;
+}
+
+.search-section {
+  background-color: #fff
+}
+
+.search-icon {
+  color: #00b7c2;
+
+}
+
+.img-jack {
+  border-radius: 100%;
+}
+.nav-item {
+  padding-right: 10px;
+}
+.navbar {
+  background-color: #111d5e;
+}
+
+.lang {
+  margin-left: 20px;
+}
+
+/* side bar navigation section */
+
+.sidenav {
+  height: 100%;
+  width: 350px;
+  /* position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0; */
+  background-color: #dddddd;
+  overflow-x: hidden;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin:5px 20px;
+}
+.navside-item {
+  padding-left: 15%;
+}
+
+.sidebar-icon {
+  padding-top: 3%;
+  padding-right: 5%;
+}
+
+.sidenav-hr {
+
+  margin-top: 5%;
+  margin-bottom:5%;
+  border-width: 2px;
+  border-color: #fff;
+}
+
+.sidebar-btn {
+  margin-left: 30%;
+}
+
+/* images section */
+
+.pics-hr {
+  border-width: 1px;
+  border-color: #000000;
+  margin-top: 2%;
+}
+
+.card{
+  width: 13rem;
+  margin-top: 2%;
+}
+
+.img-sections {
+  margin-left: 2%;
+}
+
+/* footer */
+.social-footer {
+  text-align: center;
+}
+
+.about-section {
+  padding-left: 5%;
+}
+
+.alert-footer {
+  padding-right: 5%;
+}
+
+.pics-section {
+  margin-left: 20px;
+}
